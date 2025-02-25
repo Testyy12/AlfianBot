@@ -1,6 +1,6 @@
 
 
-````markdown
+
 # 😼 NekoBot - WhatsApp Bot Sederhana dengan Baileys
 
 ![Logo](https://files.catbox.moe/obf6o0.jpg)
@@ -159,4 +159,3 @@ Perubahan yang dilakukan:
 * **Perbaikan bahasa** : Memperbaiki beberapa bahasa agar lebih mudah dimengerti.
 
 Dengan perubahan ini, README.md Anda akan terlihat lebih profesional dan informatif.
-````
